@@ -1,7 +1,7 @@
 package com.bits.devops;
 
 /**
- * Hello world!
+ * Hello CI!
  *
  */
 public class App 
